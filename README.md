@@ -1,3 +1,6 @@
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-efficient-and-effective-text-to-video/video-retrieval-on-msr-vtt-1ka)](https://paperswithcode.com/sota/video-retrieval-on-msr-vtt-1ka?p=towards-efficient-and-effective-text-to-video)
+
 # EERCF(AAAI2024)
 Code for [Towards Efficient and Effective Text-to-Video Retrieval with Coarse-to-Fine Visual Representation Learning](https://arxiv.org/abs/2401.00701). Our paper is accepted by AAAI2024.
 
